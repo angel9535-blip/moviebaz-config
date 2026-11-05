@@ -1,0 +1,6 @@
+{
+  "deviceId": "CquHCdo2ThbzXErNrj1b2QjE1j-EtU8svruE6JJOtog",
+  "publicKey": "{\"alg\":\"RS256\",\"e\":\"AQAB\",\"ext\":true,\"key_ops\":[\"verify\"],\"kty\":\"RSA\",\"n\":\"1UyfPk973vaCOMDXetl2dugANZIrYMo1o8GgPozcDgj4JpWtW7HxWd0H9RzF2IOqq_cj9IPbxGeFb8FwtWxVQy_oQMi6djtGb2-W9fCxIfJWOMAw3gxWgFR3sNc5zXGE6GC5yR6UHZf_jlo7QsRHGKr-S2tnE3JELtdtVAGYFTSTwsrgOo8PtRy8k4yADtlun9Oi0sJyrnPDNNntF94igzNF5w38CH0SWvstj--Opv0xuULQ7swU-d3YbiwvT7KgGHdOYPL09M_mKzwknYLskX4BC8DJvocC76Pp7RQRugmEGhkn8uofjejoOumvDtR_WPkmv6ynnZHAIuUt_sTn1Q\",\"use\":\"sig\"}",
+  "status": "pending",
+  "createdAt": "2026-11-05T19:19:05.911Z"
+}
