@@ -1,0 +1,6 @@
+{
+  "deviceId": "hsa-nHLtdQU5grso7o3jFFgJdEJkElctGz5be4tC6Rk",
+  "publicKey": "{\"alg\":\"RS256\",\"e\":\"AQAB\",\"ext\":true,\"key_ops\":[\"verify\"],\"kty\":\"RSA\",\"n\":\"6Veq8dJVLmGqy5RWyYqtSWCqtLiD2WVJan8mVC6lbJfR6WIaKwjl_7Vjs1QbUwQNEJlG7wU0oG8dnQNHphvvp6a4n40xTxYmlNnOT18JJDguZXF9i6j8Rf_ulvbGM6LtiUfxHkqbyE9nxv_8CH9AmYgd97unvLx53z3_TvO7ibEnNA4DVbmFkb6slVS3Gn4_14uUGxp31z-U2k1jf7v9-1UNPGl1ADFLXJrWEJZ5FXpcLHdzRTrb6oblNOyxQ-DHw3a1L80gRzHHhK2L9IFO6OS8bLCNhwX_VoZNOoTM3DpHcgR2jO_do8zBmz4UBxHQGZrfSo8rHldTRPGkL2DxTQ\",\"use\":\"sig\"}",
+  "status": "pending",
+  "createdAt": "2026-11-05T08:35:09.890Z"
+}
