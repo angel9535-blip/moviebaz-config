@@ -1,0 +1,12 @@
+{
+    "payload":  {
+                    "version":  1,
+                    "deviceId":  "IDXr16Dl3X1HbLCohwQDUOJItMHnr4tquqLqCaKZbUk",
+                    "devicePublicKey":  "{\"alg\":\"RS256\",\"e\":\"AQAB\",\"ext\":true,\"key_ops\":[\"verify\"],\"kty\":\"RSA\",\"n\":\"sZ_zVbfHId6sNAePWcCFpYHAWVKE8aPBBDBP4tzWIuAJmADVhPHFdui1UusT5kSN9Tn5KSJY3rjs9laR65IU14KfM1bKir7q_vLOeyb8cvgkzebL6Rm9g9VbdzaXC17B3LBIRDJnv0AkR9YmzRTBIdvtK3Kk6lrhyXgAdPaHVjsW5_dFmL456bJQUInT-OjiHeU5uk9gVs5Yx5bZBU97chMRLQlQ38V3ITDNejLxIClqDw-2-zIjizOyMMd60V7hErdXeX4T3sSdQKOY9vMWlXG3rritp6T1XpPtdlNQVcCQ77vOrpPhe2lm7-s8C9Mri1U62zW1BlEetDqCCkCb6Q\",\"use\":\"sig\"}",
+                    "licenseId":  "253928c6-705c-40bb-aab6-49b432d966c6",
+                    "issuedAt":  "2026-11-09T10:15:19.3961565Z",
+                    "product":  "MovieBaz"
+                },
+    "signature":  "tfBLkpcP7L1foDZNn0oqMMg4RbPWUTulN7xKKOeaTuKbgRT1rpUCtOyy6bzRMhUCs7LjcnWUxLToNEOo90EKI240pkpSmDe8qZPjxG5hbl2R63F_gRm4z5IjJi1TDAEWnSYB-8MqINcA9Ryhi7R6MBC_42sKOXMDFMrHV95csp0Tk5Y5FFyRFinxty80Rjr7yqSvwIz9dfK6juY2Bk5_bpjWNL2oTzrMMLhWPfmhnGENuwDoFrtz2c5ZQAqY_V5b6QiabZxF8xXytuFL6xLnp1R-sXVr0hJas6YKVHm6ZQCnDLoskxEAIX6w_cqPn1aOfSZhupoOZA-U9NX6_TEkU1MmACx6FyYMyjOz-RvYATCZCNncecKlDyTYHSK8K2pE5uzNBrkIlkZAViIxpWYQaWyLo4CZqUMlIaA46lKgyBvo5ZkJQMhp2jWw7aCX4j5YlDRssa1LmpcppT8fuLMjx87FZMB_4DU7Zw9MDKoRbzmeFNDBDeWRXCPVCzQTVsi5",
+    "algorithm":  "RS256"
+}
