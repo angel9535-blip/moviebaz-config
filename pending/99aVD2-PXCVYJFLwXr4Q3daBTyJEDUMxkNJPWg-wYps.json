@@ -1,0 +1,8 @@
+{
+  "deviceId": "99aVD2-PXCVYJFLwXr4Q3daBTyJEDUMxkNJPWg-wYps",
+  "publicKey": "{\"alg\":\"RS256\",\"e\":\"AQAB\",\"ext\":true,\"key_ops\":[\"verify\"],\"kty\":\"RSA\",\"n\":\"r00kHC8avJ1t2VL5iTbHiTDHEN8QrFMrZsJJaM5XHNyU8fVHnl4YuemiFGaKZj_MMTnwwQYEK3BSDZzlXXCMILkEW5ewYneO10619pFhCD-kZM6CwnOkGkQRwRabKOMjq716sp74Z-YiFJLe5GRkub8ArZXoKHX3yfxkxZ70d15Zop-JcwMud4oN1BYtHuq9p3rkm1oPdLJ4OJek0fwIwEYkx6RNlGgBQ_KpRyUeyhnWCOE8XPnJ3CToJYvissvmqIHoWxruHWFX3Jq62iqrtI-zW7BiACUpgyF_0tkGzcxctKEGGImiMI6tayIfGZ7LTj0omT56YzWSdtokvMhVpw\",\"use\":\"sig\"}",
+  "customerName": "سعیدی",
+  "status": "pending",
+  "createdAt": "2026-11-09T17:09:50.873Z",
+  "updatedAt": "2026-11-09T17:09:50.873Z"
+}
