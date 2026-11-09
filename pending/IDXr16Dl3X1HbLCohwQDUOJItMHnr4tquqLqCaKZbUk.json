@@ -1,0 +1,8 @@
+{
+  "deviceId": "IDXr16Dl3X1HbLCohwQDUOJItMHnr4tquqLqCaKZbUk",
+  "publicKey": "{\"alg\":\"RS256\",\"e\":\"AQAB\",\"ext\":true,\"key_ops\":[\"verify\"],\"kty\":\"RSA\",\"n\":\"sZ_zVbfHId6sNAePWcCFpYHAWVKE8aPBBDBP4tzWIuAJmADVhPHFdui1UusT5kSN9Tn5KSJY3rjs9laR65IU14KfM1bKir7q_vLOeyb8cvgkzebL6Rm9g9VbdzaXC17B3LBIRDJnv0AkR9YmzRTBIdvtK3Kk6lrhyXgAdPaHVjsW5_dFmL456bJQUInT-OjiHeU5uk9gVs5Yx5bZBU97chMRLQlQ38V3ITDNejLxIClqDw-2-zIjizOyMMd60V7hErdXeX4T3sSdQKOY9vMWlXG3rritp6T1XpPtdlNQVcCQ77vOrpPhe2lm7-s8C9Mri1U62zW1BlEetDqCCkCb6Q\",\"use\":\"sig\"}",
+  "customerName": "محمد امین",
+  "status": "pending",
+  "createdAt": "2026-11-09T10:10:31.953Z",
+  "updatedAt": "2026-11-09T10:10:31.953Z"
+}
