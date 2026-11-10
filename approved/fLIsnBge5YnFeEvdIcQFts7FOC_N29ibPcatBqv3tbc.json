@@ -1,0 +1,13 @@
+{
+    "payload":  {
+                    "version":  1,
+                    "deviceId":  "fLIsnBge5YnFeEvdIcQFts7FOC_N29ibPcatBqv3tbc",
+                    "devicePublicKey":  "{\"alg\":\"RS256\",\"e\":\"AQAB\",\"ext\":true,\"key_ops\":[\"verify\"],\"kty\":\"RSA\",\"n\":\"3a4Sw2ohe59F1XefEqhmDsjxh3xnSe9O9o4vbs6wIUrl_4khE844gb1AfLd443oQ2ERxhyaexujmcT34eA0ET0M9Y_I4TJYpowRB0V2FIUaE640gG7cwiucvVwQrKtRmuPaJUf7gYoLwogj6eoBZ1pTd1CioR1GQOQsX-bJEWKYoCHnCzUUeApl6mayf7Q5_i2wrIrUtRO9PbiM0YPFLMFgR2xsX7mvQAkRkKzuGjd0vQsOZW9kqL9vor8JEMlfvE0sofuAqfaNuyHBVO9JILRRlNqJmWjPQyzx1403QTMnUXbawnrzOgLLLl3jdm4L_jXZ_GbrepeU2NGu6alvumQ\",\"use\":\"sig\"}",
+                    "customerName":  "محمد علی سواعدی",
+                    "licenseId":  "1df14b81-26a0-4ad6-ad6c-e5130744c9f1",
+                    "issuedAt":  "2026-11-10T14:23:43.5235681Z",
+                    "product":  "MovieBaz"
+                },
+    "signature":  "WZ_ZDy1ZR244gQimBCmk2S2X_ibIgdC3ldvDLejtHz4ItJF905dhxK9mauiKYTa4B9IQnd5Ecw0gfsLdG7pcXIOiclNerCQ7jBUZqAsVutedP8vGNMHEAwH8qUdfQIrmPp2Qwtr3yJEyG3SLTdWxEiulqGvXU004o4wCt6enbmVd_v6HBSZILh6FFIA-nBtTpg8XUqxGESWZeXdqTJaDdS_G8rOXjPdvTEhj8zUuhvJM--4jNTRqJbGWeB3LhwUfXVNcxRCOc7DXpTxCl1GLYvaZWBejohsVGmfNxBMIYbLEvtvDy_me_zUTYxIsoqm13VBW6Pe_FMKlo_-uiUoNUg87lQux6-ox3jKLqFY1tbMkabuUYBNKQNeiKPFhFrhgHc65wsZ2UBBTUAQUJZHCzBd1WDl2aOdPJBbAbxywvE0bq9fEXbGwhNK6wclMFR74u3tf9AORI42kRvNCKc9PEvMDwFCHKgqxythLkOmhMEjDC379vcmB8rwHXRmc1swY",
+    "algorithm":  "RS256"
+}
