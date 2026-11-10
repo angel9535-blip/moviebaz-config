@@ -1,8 +1,0 @@
-{
-  "deviceId": "fLIsnBge5YnFeEvdIcQFts7FOC_N29ibPcatBqv3tbc",
-  "publicKey": "{\"alg\":\"RS256\",\"e\":\"AQAB\",\"ext\":true,\"key_ops\":[\"verify\"],\"kty\":\"RSA\",\"n\":\"3a4Sw2ohe59F1XefEqhmDsjxh3xnSe9O9o4vbs6wIUrl_4khE844gb1AfLd443oQ2ERxhyaexujmcT34eA0ET0M9Y_I4TJYpowRB0V2FIUaE640gG7cwiucvVwQrKtRmuPaJUf7gYoLwogj6eoBZ1pTd1CioR1GQOQsX-bJEWKYoCHnCzUUeApl6mayf7Q5_i2wrIrUtRO9PbiM0YPFLMFgR2xsX7mvQAkRkKzuGjd0vQsOZW9kqL9vor8JEMlfvE0sofuAqfaNuyHBVO9JILRRlNqJmWjPQyzx1403QTMnUXbawnrzOgLLLl3jdm4L_jXZ_GbrepeU2NGu6alvumQ\",\"use\":\"sig\"}",
-  "customerName": "محمد علی سواعدی",
-  "status": "pending",
-  "createdAt": "2026-11-09T20:57:55.504Z",
-  "updatedAt": "2026-11-10T13:57:49.369Z"
-}
