@@ -3,10 +3,11 @@
                     "version":  1,
                     "deviceId":  "99aVD2-PXCVYJFLwXr4Q3daBTyJEDUMxkNJPWg-wYps",
                     "devicePublicKey":  "{\"alg\":\"RS256\",\"e\":\"AQAB\",\"ext\":true,\"key_ops\":[\"verify\"],\"kty\":\"RSA\",\"n\":\"r00kHC8avJ1t2VL5iTbHiTDHEN8QrFMrZsJJaM5XHNyU8fVHnl4YuemiFGaKZj_MMTnwwQYEK3BSDZzlXXCMILkEW5ewYneO10619pFhCD-kZM6CwnOkGkQRwRabKOMjq716sp74Z-YiFJLe5GRkub8ArZXoKHX3yfxkxZ70d15Zop-JcwMud4oN1BYtHuq9p3rkm1oPdLJ4OJek0fwIwEYkx6RNlGgBQ_KpRyUeyhnWCOE8XPnJ3CToJYvissvmqIHoWxruHWFX3Jq62iqrtI-zW7BiACUpgyF_0tkGzcxctKEGGImiMI6tayIfGZ7LTj0omT56YzWSdtokvMhVpw\",\"use\":\"sig\"}",
-                    "licenseId":  "2d8ed41f-f823-49eb-b3cb-1e1cd8354ced",
-                    "issuedAt":  "2026-11-09T17:10:41.4086365Z",
+                    "customerName":  "سعیدی",
+                    "licenseId":  "e7742369-d583-4e43-919b-0de435779d7b",
+                    "issuedAt":  "2026-11-09T17:16:54.0641650Z",
                     "product":  "MovieBaz"
                 },
-    "signature":  "WMPQ4MYatGjyKImabGKHRHuz2iZZLQie8aOaOYtwGyKhsPckC87g4TCyiaxKfTW9X6zk4BuCHE8rYkTIKx5YbDDbYIKOk9OmiXnJ7UVP0EGpxYjKfIEB_wH0yvy5FF1AxBtlTQJG4IcHPm3NQHKCFAgMVqg1EgeAjRW9oNCyb3pe9-VMANRSNB0KUJkUVmO5SrT2AXZe2MSkVTyPaiygoOhdOEDpzd0Zt6vJI0AoUfRxRBW4uki_XzbkaKK4aEJFQZTvwTJrGB23nkKw-4S7bb9QztYoPC6C4HifQfCgs3pEZ37Nuy5JI1Ld9r9KBGPBVBiFNB8CxeFRdDhsZUgva7PRn_0EEyIjyrMcrDEpnYsnoFIoEGccyr0Inc2-xjcfvqPZeCyolP-DEBBLXHzYoC-JIRMjhT0bC5HcYcJIW3uE9fukSGitjJzIBhs74Z_Z3epf2cCQ-wfc9aWcMDNVTQ1puULt72xYcQmmlgjyB3zodzcsnImdRPc9j3T9W3kp",
+    "signature":  "Wjb69QzS67QeYCjW5dzJln1tyCXNhwAOvlIVy56WE6kKeHa6P9oztK_2wFxbLRlp4JE3SOhFGanM0HuWK8YHj0mgT_HTMj34Cx4Lb59Me6sJ6Yf3ZZZjA8GF3oOH4PJEHVzlScmc9t8L-vEwEWO_Z2eYoeSU959kY-dUbeQuUisfn28p0Vlbt6eAd3_bgJWLwrktUbvCSTB99Re2UtfHaAi3J9rmbjWGHSKGfPM1e8VUbWu34NUrMbRJs8Q5-E93aV1Ie9W0TSRJ-gDBECDw_5VHXX79h_gljSfYAMzA9THdy8Mr_NyXj-cyBovZc2vQNQ9OKEqjnpkTu_EKu2NBQp7pUi_F3VabiRIlytJ7JbZpr_8gqk8nsLzdI4Lxu6zXMuhBuaAuBM-dgIg6UGa8QpBGYt_GaDyGG6CKXWdE6wqkg9xBPmB033Ha4OXb-RyN9a-KCe53lvJaCggoZ6p4j4md6xZISrG9Cs9FPGVurW6w3705W3hnEF6ooSM6UfHw",
     "algorithm":  "RS256"
 }
